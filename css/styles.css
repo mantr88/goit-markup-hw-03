@@ -4,7 +4,6 @@
     --secondary-bg-color:#2F303A;
     --third-bg-color: #F5F4FA;
     --hero-button-bg-color:#188CE8;
-    
     --logo-second-color:#000000;
     --main-font-color:#212121;
     --second-font-color:#757575;
@@ -75,6 +74,7 @@ img {
     align-items: center;
         
 }
+
 .logo {
     display: block;
 
@@ -192,6 +192,7 @@ img {
 
 
 }
+
 .hero-button:hover,
 .hero-button:focus {
     background-color: var(--hero-button-bg-color);
@@ -258,6 +259,7 @@ img {
 .our-team {
     background-color: var(--third-bg-color);
 }
+
 .our-team-list {
     display: flex;
     margin-left: calc(-1 * var(--card-set-gap));
